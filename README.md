@@ -1,16 +1,22 @@
-## Hi there 👋
+# Sobre mí
 
-<!--
-**JSMaartinezz/JSMaartinezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web Junior centrado en full stack. Me enfoco en APIs, rendimiento, testing, frontend.
 
-Here are some ideas to get you started:
+- Stack principal: Node.js, Express, SQLite, GitHub Actions, JavaScript, CSS, HTML.
+- Interés actual: APIs robustas + testing / Aprender frameworks relacionado con mi stack principal.
+- Busco: prácticas como desarrollador web junior. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados (próximamente)
+
+## Cómo trabajo
+
+- Commits pequeños y explicativos.
+- README y scripts de arranque reproducibles.
+- Issues para planificar y Pull Requests para integrar (aunque trabaje solo).
+- Trabajo 
+
+## Contacto
+
+- LinkedIn: https://www.linkedin.com/in/javier-saurin/
+- Email: javier.saurin.martinez@gmail.com
+- Portfolio: (Trabajando en ello).
