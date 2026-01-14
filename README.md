@@ -1,22 +1,40 @@
-# Sobre mí
+# 🚀 Full Stack Developer Junior | Especialista en Tecnologías Web (IFCD0210)
 
-Desarrollador web Junior centrado en full stack. Me enfoco en APIs, rendimiento, testing, frontend.
+### Hola, soy [Javier] 👋 
 
-- Stack principal: Node.js, Express, SQLite, GitHub Actions, JavaScript, CSS, HTML.
-- Interés actual: APIs robustas + testing / Aprender frameworks relacionado con mi stack principal.
-- Busco: prácticas como desarrollador web junior. 
+Desarrollador Full Stack enfocado en la creación de soluciones web escalables, eficientes y centradas en el usuario. Mi formación técnica se apoya en el certificado de profesionalidad **IFCD0210**, lo que garantiza una base sólida en estándares oficiales de desarrollo, seguridad y gestión de datos.
 
-## Proyectos destacados (próximamente)
+---
 
-## Cómo trabajo
+## 🛠️ Stack Tecnológico
 
-- Commits pequeños y explicativos.
-- README y scripts de arranque reproducibles.
-- Issues para planificar y Pull Requests para integrar (aunque trabaje solo).
-- Trabajo 
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend** | JavaScript (ES6+), React, HTML5, CSS3/SASS, TypeScript |
+| **Backend** | Node.js, Express, REST APIs |
+| **Bases de Datos** | MySQL, PostgreSQL, SQLite |
+| **Herramientas** | Git, Testing (Jest) |
 
-## Contacto
+---
 
-- LinkedIn: https://www.linkedin.com/in/javier-saurin/
-- Email: javier.saurin.martinez@gmail.com
-- Portfolio: (Trabajando en ello).
+## 📜 Certificación Profesional: IFCD0210
+
+He completado con éxito la formación oficial en **Desarrollo de Aplicaciones con Tecnologías Web**, adquiriendo competencias clave validadas por el mercado:
+
+* **Programación en entorno cliente:** Desarrollo de interfaces dinámicas y optimización del rendimiento Frontend.
+* **Programación en entorno servidor:** Arquitectura de aplicaciones robustas y lógica de negocio escalable.
+* **Gestión de bases de datos:** Diseño, implementación y administración de sistemas de datos relacionales y no relacionales.
+* **Seguridad y despliegue:** Implementación de protocolos de seguridad y publicación de aplicaciones web.
+
+---
+
+## 📁 Proyectos Destacados (PRÓXIMAMENTE)
+
+---
+
+## 📫 Conecta conmigo
+
+* **LinkedIn:** https://www.linkedin.com/in/javier-saurin/
+* **Email:** javier.saurin.martinez@gmail.com
+
+*"Comprometido con el Clean Code, el aprendizaje continuo y la resolución de problemas complejos a través de la tecnología."*
