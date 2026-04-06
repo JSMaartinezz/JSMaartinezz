@@ -1,4 +1,4 @@
-# 🚀 Full Stack Developer Junior | Especialista en Tecnologías Web (IFCD0210)
+# 🚀 Full Stack Developer Junior
 
 ### Hola, soy Javier 👋 
 
