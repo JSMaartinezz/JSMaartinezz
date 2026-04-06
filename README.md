@@ -2,15 +2,14 @@
 
 ### Hola, soy Javier 👋 
 
-Desarrollador Full Stack enfocado en la creación de soluciones web escalables, eficientes y centradas en el usuario. Mi formación técnica se apoya en el certificado de profesionalidad **IFCD0210**, lo que garantiza una base sólida en estándares oficiales de desarrollo, seguridad y gestión de datos.
-
+Desarrollador Full Stack Junior enfocado en la creación de soluciones web escalables, eficientes y centradas en el usuario.
 ---
 
 ## 🛠️ Stack Tecnológico
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Frontend** | JavaScript (ES6+), React, HTML5, CSS3/SASS, TypeScript |
+| **Frontend** | JavaScript (ES6+), HTML5, CSS3/SASS |
 | **Backend** | Node.js, Express, REST APIs |
 | **Bases de Datos** | MySQL, PostgreSQL, SQLite |
 | **Herramientas** | Git, Testing (Jest) |
