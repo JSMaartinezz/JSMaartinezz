@@ -12,20 +12,18 @@ Desarrollador Full Stack Junior enfocado en la creación de soluciones web escal
 | **Frontend** | JavaScript (ES6+), HTML5, CSS3/SASS |
 | **Backend** | Node.js, Express, REST APIs |
 | **Bases de Datos** | MySQL, PostgreSQL, SQLite |
-| **Herramientas** | Git, Testing (Jest) |
+| **Herramientas** | Git, GitHub, VS Code, NPM, DB Browser |
 
 ---
 
 ## 📜 Certificación Profesional: IFCD0210
 
-He completado con éxito la formación oficial en **Desarrollo de Aplicaciones con Tecnologías Web**, adquiriendo competencias clave validadas por el mercado:
+Formación oficial en Desarrollo de Aplicaciones con Tecnologías Web proporcionándome una base sólida en los estándares del sector, aplicada desde el primer día en proyectos reales:
 
-* **Programación en entorno cliente:** Desarrollo de interfaces dinámicas y optimización del rendimiento Frontend.
-* **Programación en entorno servidor:** Arquitectura de aplicaciones robustas y lógica de negocio escalable.
-* **Gestión de bases de datos:** Diseño, implementación y administración de sistemas de datos relacionales y no relacionales.
-* **Seguridad y despliegue:** Implementación de protocolos de seguridad y publicación de aplicaciones web.
-
----
+Frontend: Interfaces funcionales y dinámicas con HTML, CSS y JavaScript — aprendidas escribiendo código, no solo leyendo sobre él.
+Backend: Servidores con Node.js, manejo de rutas, middleware y gestión de errores.
+Bases de datos: Diseño e integración con SQLite, con atención a la integridad de los datos y consultas que no hagan sufrir a nadie.
+Buenas prácticas: Organización de proyectos, código limpio y nociones de seguridad básica en aplicaciones web.
 
 ## 📁 Proyectos Destacados (PRÓXIMAMENTE)
 
