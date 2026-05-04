@@ -1,8 +1,10 @@
 # 🚀 Full Stack Developer Junior
 
-### Hola, soy Javier 👋 
+### Hola, soy Javier 👋 ###  
 
 Desarrollador Full Stack Junior enfocado en la creación de soluciones web escalables, eficientes y centradas en el usuario.
+Actualmente fortaleciendo mis habilidades en HTML, CSS, JavaScript y Node.js, con enfoque en buenas prácticas, arquitectura limpia y trabajo colaborativo.
+
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -22,10 +24,8 @@ Formación oficial en Desarrollo de Aplicaciones con Tecnologías Web proporcion
 
 - **Frontend**: Interfaces funcionales y dinámicas con HTML, CSS y JavaScript — aprendidas escribiendo código, no solo leyendo sobre él.
 - **Backend**: Servidores con Node.js, manejo de rutas, middleware y gestión de errores.
-- **Bases de datos**: Diseño e integración con SQLite, con atención a la integridad de los datos y consultas que no hagan sufrir a nadie.
+- **Bases de datos**: Diseño e integración con SQLite, con atención a la integridad de los datos.
 - **Buenas prácticas**: Organización de proyectos, código limpio y nociones de seguridad básica en aplicaciones web.
-
-## 📁 Proyectos Destacados (PRÓXIMAMENTE)
 
 ---
 
