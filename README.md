@@ -20,10 +20,10 @@ Desarrollador Full Stack Junior enfocado en la creación de soluciones web escal
 
 Formación oficial en Desarrollo de Aplicaciones con Tecnologías Web proporcionándome una base sólida en los estándares del sector, aplicada desde el primer día en proyectos reales:
 
-**Frontend**: Interfaces funcionales y dinámicas con HTML, CSS y JavaScript — aprendidas escribiendo código, no solo leyendo sobre él.
-**Backend**: Servidores con Node.js, manejo de rutas, middleware y gestión de errores.
-**Bases de datos**: Diseño e integración con SQLite, con atención a la integridad de los datos y consultas que no hagan sufrir a nadie.
-**Buenas prácticas**: Organización de proyectos, código limpio y nociones de seguridad básica en aplicaciones web.
+- **Frontend**: Interfaces funcionales y dinámicas con HTML, CSS y JavaScript — aprendidas escribiendo código, no solo leyendo sobre él.
+- **Backend**: Servidores con Node.js, manejo de rutas, middleware y gestión de errores.
+- **Bases de datos**: Diseño e integración con SQLite, con atención a la integridad de los datos y consultas que no hagan sufrir a nadie.
+- **Buenas prácticas**: Organización de proyectos, código limpio y nociones de seguridad básica en aplicaciones web.
 
 ## 📁 Proyectos Destacados (PRÓXIMAMENTE)
 
