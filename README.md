@@ -18,7 +18,7 @@ Actualmente fortaleciendo mis habilidades en HTML, CSS, JavaScript y Node.js, co
 
 ---
 ## 📁 Proyectos destacados
-
+**Minijuegos clásicos**
 - **Descripción del proyecto**: Recopilación de algunos de los minijuegos clásicos más jugados, desde un piedra, papel, tijeras hasta un adivina el número, entre otros.
 - **Tecnologías usadas**: HTML5, CSS3, JavaScript (ES6+).
 - **Proyecto en proceso de desarrollo**
