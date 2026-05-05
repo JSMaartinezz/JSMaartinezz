@@ -17,7 +17,14 @@ Actualmente fortaleciendo mis habilidades en HTML, CSS, JavaScript y Node.js, co
 | **Herramientas** | Git, GitHub, VS Code, NPM, DB Browser |
 
 ---
+## 📁 Proyectos destacados
 
+- **Descripción del proyecto**: Recopilación de algunos de los minijuegos clásicos más jugados, desde un piedra, papel, tijeras hasta un adivina el número, entre otros.
+- **Tecnologías usadas**: HTML5, CSS3, JavaScript (ES6+).
+- **Proyecto en proceso de desarrollo**
+- [Ver Repositorio](https://github.com/JSMaartinezz/Minijuegos-Clasicos.git)
+
+---
 ## 📜 Certificación Profesional: IFCD0210
 
 Formación oficial en Desarrollo de Aplicaciones con Tecnologías Web proporcionándome una base sólida en los estándares del sector, aplicada desde el primer día en proyectos reales:
